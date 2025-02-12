@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', 'ꈍᴗꈍ'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗', 'A'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like cucks🤔🐔?",                                    // First interaction
+            text: "Do you like Ms French 🤔🐔?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you :("           // Secret hover message
+            secretAnswer: "Right here :D "           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "How much do you wuvvv me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest duddd in the world! 🎉🐔🐔🐢🐢🐢❤️❤️💕",
-        message: "I love youuuuuuuu let's get Mcdonalds YAYYYYY:) !",
-        emojis: "🎁💖🤗💝💋😋💁‍♂️❤️💕"  // These will bounce around
+        title: "Yay! I'm so lucky to have YOUUUU ! 🎉🐔🐢❤️❤️💕",
+        message: "LETS GET MCDONALDS AND BE FAT SOONNNNN YAYYYYY:) !",
+        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
